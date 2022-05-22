@@ -215,4 +215,4 @@
 ///++
 // Notifications
 "Notification.NewXcodeVersion.Title" = "New Xcode versions";
-"Notification.NewXcodeVersion.Body" = "New Xcode versions are available to download.";
+"Notification.NewXcodeVersion.Body" = "New Xcode versions are available to download1.";
